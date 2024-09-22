@@ -6,3 +6,6 @@ This project is designed to detect two evasive Spectre attacks (evasive Spectre 
 The two-stage models include the first stage workloads classifier and the second stage attack detector. <br>
 The workloads include three types: realistic applications (6 appliccations), CPU stress test and memory stress test. <br>
 
+Contact us
+----------
+If you want to achieve this project, please contact us: 1874506092@qq.com.
